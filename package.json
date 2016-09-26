@@ -1,0 +1,24 @@
+{
+  "name": "mean101-node",
+  "version": "1.0.0",
+  "description": "API and angular through node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZentoBits/mean101-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZentoBits/mean101-node/issues"
+  },
+  "homepage": "https://github.com/ZentoBits/mean101-node#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
