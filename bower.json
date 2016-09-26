@@ -1,0 +1,20 @@
+{
+  "name": "mean101-node",
+  "description": "API and angular through node",
+  "main": "index.js",
+  "authors": [
+    "Zachary George <zacharygeorge@Zacharys-MacBook-Pro.local>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ZentoBits/mean101-node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
